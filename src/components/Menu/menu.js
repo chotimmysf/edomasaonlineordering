@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import MenuSummary from "./menuSummary";
-import AvailableMenuItems from "./availableMenuItems";
+import AvailableMenuItems from "./MenuItem/availableMenuItems";
 
 const Menu = () => {
     return (
