@@ -13,11 +13,11 @@ const AvailableMenuItems = () => {
     />);
 
     return <section className={classes.items}>
-        <ul>
-            <Card>
+        <Card>
+            <ul>
                 {listOfMenuItems}
-            </Card>
-        </ul>
+            </ul>
+        </Card>
     </section>
 };
 
