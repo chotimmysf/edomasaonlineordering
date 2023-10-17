@@ -3,11 +3,11 @@ import classes from './header.module.css';
 import restarauntBanner from "../../assets/yakitori-assortment.jpg";
 import HeaderCartButton from './headerCartButton';
 
-function Header(props) {
+const Header = (props) => {
     return <Fragment>
         <header className={classes.header}>
             <h1>Edomasa Online Order</h1>
-            <HeaderCartButton />
+            <HeaderCartButton onBtnClick={props.onShowCart} />
         </header>
         <div className={classes['main-image']}>
             <img src={restarauntBanner} alt="Various meat and vegetable skewers on a rectangular plate"/>
