@@ -6,6 +6,7 @@ import IndividualMenuItem from "./individualMenuItem";
 const AvailableMenuItems = () => {
     const listOfMenuItems = MENU_ITEMS.map((item) => 
     <IndividualMenuItem 
+        id={item.id}
         key={item.id}
         name={item.name}
         description={item.description}
