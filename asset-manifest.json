@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edomasaonlineordering/static/css/main.b9de5af0.css",
+    "main.js": "/edomasaonlineordering/static/js/main.872cb700.js",
+    "static/js/787.74303093.chunk.js": "/edomasaonlineordering/static/js/787.74303093.chunk.js",
+    "static/media/yakitori-assortment.jpg": "/edomasaonlineordering/static/media/yakitori-assortment.b950026ee971b1522699.jpg",
+    "index.html": "/edomasaonlineordering/index.html",
+    "main.b9de5af0.css.map": "/edomasaonlineordering/static/css/main.b9de5af0.css.map",
+    "main.872cb700.js.map": "/edomasaonlineordering/static/js/main.872cb700.js.map",
+    "787.74303093.chunk.js.map": "/edomasaonlineordering/static/js/787.74303093.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9de5af0.css",
+    "static/js/main.872cb700.js"
+  ]
+}
